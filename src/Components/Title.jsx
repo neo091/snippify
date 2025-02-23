@@ -1,0 +1,1 @@
+export const Title = () => <h1 className="text-snippify text-3xl font-bold my-4">SnippiFy</h1>
